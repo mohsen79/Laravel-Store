@@ -1,0 +1,16 @@
+{
+    "name": "Cart",
+    "alias": "cart",
+    "description": "Cart Module",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Cart\\Providers\\CartServiceProvider"
+    ],
+    "aliases": {
+        "Cart": "Modules\\Cart\\Helpers\\Cart"
+    },
+    "files": [],
+    "requires": [],
+    "candisable": true
+}

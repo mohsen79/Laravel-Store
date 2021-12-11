@@ -1,0 +1,9 @@
+{
+    "Token": true,
+    "Comment": true,
+    "Gallery": true,
+    "Cart": true,
+    "Discount": true,
+    "Main": true,
+    "Action": true
+}

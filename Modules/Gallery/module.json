@@ -1,0 +1,14 @@
+{
+    "name": "Gallery",
+    "alias": "gallery",
+    "description": "Gallery Module",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gallery\\Providers\\GalleryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "candisable": true
+}

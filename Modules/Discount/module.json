@@ -1,0 +1,14 @@
+{
+    "name": "Discount",
+    "alias": "discount",
+    "description": "Discount Module",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Discount\\Providers\\DiscountServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "candisable": true
+}
